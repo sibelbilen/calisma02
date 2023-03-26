@@ -3,6 +3,11 @@ public class C01 {
         System.out.println("sibel");
 
 
+
         System.out.println("aly..");
+
+        System.out.println("Derse 10 dk kaldı");
+        System.out.println("Ali Hocam hayat kurtardın");
+
     }
 }
